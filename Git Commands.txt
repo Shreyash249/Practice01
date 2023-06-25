@@ -1,0 +1,22 @@
+git config - This command sets the author name and email address respectively to be used with your commits.
+
+git init -  start a new repository
+
+
+git status- lists all files that have to be committed
+
+git add - command adds a new file to staging area
+
+git log - command used to list the version history for your current branch
+
+
+git commit - records or commit changes on the file permanenetly in the version history
+
+
+git remote - command used to connect your local repository to remote server
+
+git push - command sends the committed changes of master branch to your remote repository 
+
+git clone - command used to obtain a repository from an existing URL.
+
+git pull - command fetches and merge changes on the remote server to the working directory
